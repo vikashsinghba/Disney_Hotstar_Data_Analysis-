@@ -13,9 +13,13 @@ https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/disney_
 - Filled World map: total IMDB votes by country
 - Area chart: content added 1920–2020
 ## Dashboard Interaction
-https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/Hotstar%20Dashboard.pbix 
+
+
+
 ## Dashboard
-https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/Screenshot%20Hotstar%20Power%20BI%20Dashboard.png 
+
+<img width="679" height="376" alt="Screenshot Hotstar Power BI Dashboard" src="https://github.com/user-attachments/assets/aed61c0e-0b7b-47bd-a021-e38f9293b550" />
+
 
 ## Process
 Started with a raw dataset (992 rows, 19 columns) full of messy data — blank rows, wrong data types, dates stored as text, numbers stored with commas, inconsistent ratings.
