@@ -28,11 +28,11 @@ The data was far from clean. Here's what I fixed in powerbi workbench before a s
 - Converted 2 date columns with different locale formats etc.
 
 ## Project Insights:
-📊 879 titles across movies, series & episodes
-🎬 463 directors | 813 actors | 14 genres
-🌍 IMDB votes mapped by country
-⭐ Rating breakdown by genre (Tree-map)
-📈 Content growth from 1920 to 2020
+- 879 titles across movies, series & episodes
+- 463 directors | 813 actors | 14 genres
+- IMDB votes mapped by country
+- Rating breakdown by genre (Tree-map)
+- Content growth from 1920 to 2020
 
 ## Conclusion: 
 Animation leads on rating. USA & India dominate on votes. Movies make up 77% of all content.
