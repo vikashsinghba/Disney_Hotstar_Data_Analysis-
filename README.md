@@ -3,6 +3,14 @@ I have developed comprehensive Disney+ Hotstar dashboard in powerbi to analyze d
 
 ## Project Objective 
 Analysis on disney_plus_shows which has been added in 2019-20 released from 1929 to 2020 with all genre e.g. Comedy, Drama, Romance and Animation etc. based on sample data taken from Kaggle.
+
+## Dashboard Parameters:
+- KPI cards: Genres | Directors | Actors
+- Donut chart: content split by type
+- Tree-map: average IMDB rating by genre
+- Filled World map: total IMDB votes by country
+- Area chart: content added 1920–2020
+
 ## Process
 Started with a raw dataset (992 rows, 19 columns) full of messy data — blank rows, wrong data types, dates stored as text, numbers stored with commas, inconsistent ratings.
 
