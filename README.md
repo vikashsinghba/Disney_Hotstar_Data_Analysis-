@@ -1,4 +1,4 @@
-## Disney_Hotstar_Data_Analysis (Interactive Dashboard Creation Using Power BI)
+## Hotstar_Data_Analysis (Interactive Dashboard Creation Using Power BI)
 I have developed comprehensive Disney+ Hotstar dashboard in powerbi to analyze data. This process involved several stages, data cleaning, shaping data before turning into interactive dashboard.
 
 ## Project Objective 
@@ -6,10 +6,9 @@ Analysis on disney_plus_shows which has been added in 2019-20 released from 1929
 ## Process
 Started with a raw dataset (992 rows, 19 columns) full of messy data — blank rows, wrong data types, dates stored as text, numbers stored with commas, inconsistent ratings.
 
-The data was far from clean. Here's what I fixed in powerbi workbench before a single visual was built:
-
-•	Removed 98 blank rows + 74 duplicates
-•	Fixed 'rated' column — same rating in 5 different formats
-•	Extracted clean year from mixed values like '2011–2016'
-•	Converted runtime from 'min' (text) → (number)
-•	Converted 2 date columns with different locale formats etc.
+### The data was far from clean. Here's what I fixed in powerbi workbench before a single visual was built:
+- Removed 98 blank rows + 74 duplicates
+- Fixed 'rated' column — same rating in 5 different formats
+- Extracted clean year from mixed values like '2011–2016'
+- Converted runtime from 'min' (text) → (number)
+- Converted 2 date columns with different locale formats etc.
