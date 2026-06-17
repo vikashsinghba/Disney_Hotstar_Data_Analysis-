@@ -4,7 +4,7 @@ I have developed comprehensive Disney+ Hotstar dashboard in powerbi to analyze d
 ## Project Objective 
 Analysis on disney_plus_shows which has been added in 2019-20 released from 1929 to 2020 with all genre e.g. Comedy, Drama, Romance and Animation etc. based on sample data taken from Kaggle.
 ## Database Used
-https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/disney_plus_shows.csv
+- <a href="https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/disney_plus_shows.csv">Data Set</a>
 
 ## Dashboard Parameters
 - KPI cards: Genres | Directors | Actors
