@@ -13,12 +13,11 @@ Analysis on disney_plus_shows which has been added in 2019-20 released from 1929
 - Filled World map: total IMDB votes by country
 - Area chart: content added 1920–2020
 ### Dashboard Interaction
-
+- <a href'"https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/Hotstar%20Dashboard.pbix">Powerbi Dashboard File</a>
 
 ### Dashboard
 
 <img width="679" height="376" alt="Screenshot Hotstar Power BI Dashboard" src="https://github.com/user-attachments/assets/aed61c0e-0b7b-47bd-a021-e38f9293b550" />
-
 
 ### Process
 Started with a raw dataset (992 rows, 19 columns) full of messy data — blank rows, wrong data types, dates stored as text, numbers stored with commas, inconsistent ratings.
