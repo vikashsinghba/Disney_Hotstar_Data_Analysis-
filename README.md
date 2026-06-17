@@ -14,7 +14,6 @@ Analysis on disney_plus_shows which has been added in 2019-20 released from 1929
 - Area chart: content added 1920–2020
 ### Dashboard Interaction
 
-<a href="https://github.com/vikashsinghba/Disney_Hotstar_Data_Analysis-/blob/main/Hotstar%20Dashboard.pbix">Powerbi_Dashboard_File</a>
 
 ### Dashboard
 
