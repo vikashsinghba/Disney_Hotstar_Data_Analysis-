@@ -15,7 +15,6 @@ Analysis on disney_plus_shows which has been added in 2019-20 released from 1929
 ### Dashboard Interaction
 
 
-
 ### Dashboard
 
 <img width="679" height="376" alt="Screenshot Hotstar Power BI Dashboard" src="https://github.com/user-attachments/assets/aed61c0e-0b7b-47bd-a021-e38f9293b550" />
